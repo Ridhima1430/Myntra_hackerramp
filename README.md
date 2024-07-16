@@ -34,28 +34,31 @@ We've developed two dynamic features that will transform your Myntra experience 
 # Contest Challenge:
 
 ### Ongoing/ Upcoming page
-![Homepage](![Uploading image.png…])
+![Ongoing/ Upcoming page](![ScreenShot/Ongoing-Upcoming page.png])
+
+### Contest Page
+![Contest Page](![ScreenShot/Raksha Bandhan])
 
 ### Submission Page
-![Submission Page](screenshots/submission.png)
+![Ongoing/ Upcoming page](![ScreenShot/Contest Submission.png])
 
-### Participant Dashboard
-![Submission Page](screenshots/submission.png)
+### Contest Dashboard
+![Contest Dashboard](![ScreenShot/Contest Dashboard.png])
 
 ### Leaderboard
-![Leaderboard](screenshots/leaderboard.png)
+![Leaderboard](![ScreenShot/Leaderboard.png])
 
 # Blogs
 
 ### Homepage
-![Homepage](![Uploading image.png…])
+![Blog Homepage](![ScreenShot/Contest Dashboard.png])
 
 ### Editor Window
-![Homepage](![Uploading image.png…])
+![Editor Window](![ScreenShot/Editor Window.png])
 
 ### Published Blogs
-![Homepage](![Uploading image.png…])
+![Published Blogs](![ScreenShot/Published Blogs.png])
 
 ### Firebase database
-![Homepage](![Uploading image.png…])
+![Firebase database](![ScreenShot/Firebase database.png])
 
