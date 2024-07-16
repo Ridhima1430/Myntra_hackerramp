@@ -9,7 +9,7 @@ This project was created as part of the MyntraHacker Ramp Hackathon 2024, where 
 ## Team Members
 
 - [Chhavi](https://github.com/chhavii04)
-- [Ridhima](https://github.com/grace)
+- [Ridhima](https://github.com/grace1427)
 - [Vanshika Khurana](https://github.com/vanshikhurana)
 
 ## Features
@@ -28,38 +28,41 @@ This project was created as part of the MyntraHacker Ramp Hackathon 2024, where 
 - **Backend:** Node.js, Express.js
 - **Database:** Firebase
 
+## Prototype Demonstration
+![Demo](ReadMe-assest/Final.mp4)
+
 ## Screenshots
 
 ### Main Page
-![Homepage](ScreenShot/HomePage.png)
+![Homepage](ReadMe-assest/HomePage.png)
 
 ### Contest Challenge
 
 #### Ongoing/Upcoming Page
-![Ongoing/Upcoming Page](ScreenShot/Ongoing-Upcoming-page.png)
+![Ongoing/Upcoming Page](ReadMe-assest/Ongoing-Upcoming.png)
 
 #### Contest Page
-![Contest Page](ScreenShot/Raksha-Bandhan.png)
+![Contest Page](ReadMe-assest/Raksha-Bandhan.png)
 
 #### Submission Page
-![Submission Page](ScreenShot/Contest-Submission.png)
+![Submission Page](ReadMe-assest/Contest-Submission.png)
 
-#### Contest Dashboard
-![Contest Dashboard](ScreenShot/Contest-Dashboard.png)
+#### Participant Dashboard
+![Participant Dashboard](ReadMe-assest/Contest-Dashboard.png)
 
 #### Leaderboard
-![Leaderboard](ScreenShot/Leaderboard.png)
+![Leaderboard](ReadMe-assest/Leaderboard.png)
 
 ### Blogs
 
 #### Blog Homepage
-![Blog Homepage](ScreenShot/Blog-Homepage.png)
+![Blog Homepage](ReadMe-assest/Blog-Homepage.png)
 
 #### Editor Window
-![Editor Window](ScreenShot/Editor-Window.png)
+![Editor Window](ReadMe-assest/Editor.png)
 
 #### Published Blogs
-![Published Blogs](ScreenShot/Published-Blogs.png)
+![Published Blogs](ReadMe-assest/Published.png)
 
 ### Firebase Database
-![Firebase Database](ScreenShot/Firebase-database.png)
+![Firebase Database](ReadMe-assest/Firebase-db.png)
