@@ -5,7 +5,8 @@ Welcome to the repository for the MyntraHacker Ramp Hackathon Contest Website. T
 ## Screenshots
 ![Uploading image.png…]()
 
-
+###Ongoing/ Upcoming page
+![Homepage](![Uploading image.png…])
 
 ### Homepage
 ![Homepage](screenshots/homepage.png)
