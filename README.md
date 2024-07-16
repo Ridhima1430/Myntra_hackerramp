@@ -6,9 +6,9 @@ We've developed two dynamic features that will transform your Myntra experience 
 
 # Team Members
 
-- ![Chhavi](https://github.com/chhavii04)
-- ![Ridhima](https://github.com/grace)
-- ![Vanshika Khurana](https://github.com/vanshikhurana)
+- [Chhavi](https://github.com/chhavii04)
+- [Ridhima](https://github.com/grace)
+- [Vanshika Khurana](https://github.com/vanshikhurana)
 
 ## Features
 
@@ -29,7 +29,7 @@ We've developed two dynamic features that will transform your Myntra experience 
 ## Screenshots:
 
 # Main Page
-![Homepage](![Uploading image.png…])
+![Homepage](![ScreenShot/HomePage.png])
 
 # Contest Challenge:
 
