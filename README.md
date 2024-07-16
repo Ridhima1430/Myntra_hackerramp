@@ -5,9 +5,10 @@ We've developed two dynamic features that will transform your Myntra experience 
 - Blogs
 
 # Team Members
-- https://github.com/chhavii04
-- https://github.com/grace
-- https://github.com/vanshikhurana
+
+- ![Chhavi](https://github.com/chhavii04)
+- ![Ridhima](https://github.com/grace)
+- ![Vanshika Khurana](https://github.com/vanshikhurana)
 
 ## Features
 
