@@ -29,41 +29,40 @@ This project was created as part of the MyntraHacker Ramp Hackathon 2024, where 
 - **Database:** Firebase
 
 ## Prototype Demonstration
-[Demo](/ReadMe-assets/Final.mp4)
+[/assets/Final.mp4](/assets/Final.mp4)
 
 ## Screenshots
 
 ### Main Page
-
-![Homepage](ReadMe-assets/HomePage.png)
+![Homepage](/assets/HomePage.png)
 
 ### Contest Challenge
 
 #### Ongoing/Upcoming Page
-![Ongoing/Upcoming Page](/ReadMe-assets/Ongoing-Upcoming.png)
+![Ongoing/Upcoming Page](/assets/Ongoing-Upcoming.png)
 
 #### Contest Page
-![Contest Page](/ReadMe-assets/Raksha-Bandhan.png)
+![Contest Page](/assets/Raksha-Bandhan.png)
 
 #### Submission Page
-![Submission Page](/ReadMe-assets/Contest-Submission.png)
+![Submission Page](/assets/Contest-Submission.png)
 
 #### Participant Dashboard
-![Participant Dashboard](/ReadMe-assets/Contest-Dashboard.png)
+![Participant Dashboard](/assets/Contest-Dashboard.png)
 
 #### Leaderboard
-![Leaderboard](/ReadMe-assets/Leaderboard.png)
+![Leaderboard](/assets/Leaderboard.png)
 
 ### Blogs
 
 #### Blog Homepage
-![Blog Homepage](/ReadMe-assets/Blog-Homepage.png)
+![Blog Homepage](/assets/Blog-Homepage.png)
 
 #### Editor Window
-![Editor Window](/ReadMe-assets/Editor.png)
+![Editor Window](/assets/Editor.png)
 
 #### Published Blogs
-![Published Blogs](/ReadMe-assets/Published.png)
+![Published Blogs](/assets/Published.png)
 
 ### Firebase Database
-![Firebase Database](/ReadMe-assets/Firebase-db.png)
+![Firebase Database](/assets/Firebasedb.png)
