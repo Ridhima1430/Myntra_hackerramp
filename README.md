@@ -35,7 +35,7 @@ This project was created as part of the MyntraHacker Ramp Hackathon 2024, where 
 
 ### Main Page
 
-![Homepage](/ReadMe assets/HomePage.png)
+![Homepage](ReadMe-assets/HomePage.png)
 
 ### Contest Challenge
 
