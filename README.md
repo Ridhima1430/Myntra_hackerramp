@@ -21,7 +21,7 @@ This project was created as part of the MyntraHacker Ramp Hackathon 2024, where 
 - **Database Integration:** Stores submission data securely in Firebase.
 - **Blog:** Users can write and publish blogs, and read fashion tips and articles.
 
-## Technologies Stack
+## Technology Stack
 
 - **UI Design:** Figma
 - **Frontend:** HTML5, CSS3, JavaScript
@@ -29,40 +29,40 @@ This project was created as part of the MyntraHacker Ramp Hackathon 2024, where 
 - **Database:** Firebase
 
 ## Prototype Demonstration
-![Demo](ReadMe-assest/Final.mp4)
+![Demo](ReadMe-asset/Final.mp4)
 
 ## Screenshots
 
 ### Main Page
-![Homepage](ReadMe-assest/HomePage.png)
+![Homepage](ReadMe-asset/HomePage.png)
 
 ### Contest Challenge
 
 #### Ongoing/Upcoming Page
-![Ongoing/Upcoming Page](ReadMe-assest/Ongoing-Upcoming.png)
+![Ongoing/Upcoming Page](ReadMe-asset/Ongoing-Upcoming.png)
 
 #### Contest Page
-![Contest Page](ReadMe-assest/Raksha-Bandhan.png)
+![Contest Page](ReadMe-asset/Raksha-Bandhan.png)
 
 #### Submission Page
-![Submission Page](ReadMe-assest/Contest-Submission.png)
+![Submission Page](ReadMe-asset/Contest-Submission.png)
 
 #### Participant Dashboard
-![Participant Dashboard](ReadMe-assest/Contest-Dashboard.png)
+![Participant Dashboard](ReadMe-asset/Contest-Dashboard.png)
 
 #### Leaderboard
-![Leaderboard](ReadMe-assest/Leaderboard.png)
+![Leaderboard](ReadMe-asset/Leaderboard.png)
 
 ### Blogs
 
 #### Blog Homepage
-![Blog Homepage](ReadMe-assest/Blog-Homepage.png)
+![Blog Homepage](ReadMe-asset/Blog-Homepage.png)
 
 #### Editor Window
-![Editor Window](ReadMe-assest/Editor.png)
+![Editor Window](ReadMe-asset/Editor.png)
 
 #### Published Blogs
-![Published Blogs](ReadMe-assest/Published.png)
+![Published Blogs](ReadMe-asset/Published.png)
 
 ### Firebase Database
-![Firebase Database](ReadMe-assest/Firebase-db.png)
+![Firebase Database](ReadMe-asset/Firebase-db.png)
